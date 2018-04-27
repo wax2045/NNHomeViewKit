@@ -1,0 +1,16 @@
+PODS:
+  - NNHomeViewKit (0.1.0)
+
+DEPENDENCIES:
+  - NNHomeViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  NNHomeViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NNHomeViewKit: 772858740afc83533a0854073bb212fc4bcdb9ac
+
+PODFILE CHECKSUM: 4dbc82a8088f01006dcb4729b65d3cefdc2728d1
+
+COCOAPODS: 1.5.0

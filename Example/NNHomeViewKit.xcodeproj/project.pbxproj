@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1167C22962E57D1237954C39 /* Pods-NNHomeViewKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeViewKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeViewKit_Example/Pods-NNHomeViewKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		235ECF995465441D32A9C97F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		235ECF995465441D32A9C97F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		2D5C8F6996C65ABA5AC3B9E3 /* Pods-NNHomeViewKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeViewKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeViewKit_Tests/Pods-NNHomeViewKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		356C15FC469887A5C8555669 /* Pods-NNHomeViewKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeViewKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeViewKit_Example/Pods-NNHomeViewKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NNHomeViewKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NNHomeViewKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,10 +63,10 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88809E285524B7D3D1B736A0 /* Pods_NNHomeViewKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNHomeViewKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93D989F480CA8C06410404C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		93D989F480CA8C06410404C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		955500D95800EB9D88F58C34 /* Pods_NNHomeViewKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNHomeViewKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECFABAE565363E6B9277808B /* Pods-NNHomeViewKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeViewKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeViewKit_Tests/Pods-NNHomeViewKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F1373EE72E19F45DDF0FB192 /* NNHomeViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NNHomeViewKit.podspec; path = ../NNHomeViewKit.podspec; sourceTree = "<group>"; };
+		F1373EE72E19F45DDF0FB192 /* NNHomeViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NNHomeViewKit.podspec; path = ../NNHomeViewKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

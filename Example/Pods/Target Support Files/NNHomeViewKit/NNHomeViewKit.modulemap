@@ -1,0 +1,6 @@
+framework module NNHomeViewKit {
+  umbrella header "NNHomeViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

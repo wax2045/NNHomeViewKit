@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NNHomeViewKit_Example' do
+  pod 'NNHomeViewKit', :path => '../'
+
+  target 'NNHomeViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
